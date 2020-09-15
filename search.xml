@@ -17,5 +17,13 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>test with</title>
+    <url>/2020/09/15/test-with/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
